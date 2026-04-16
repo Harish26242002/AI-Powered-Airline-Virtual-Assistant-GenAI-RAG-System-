@@ -284,14 +284,18 @@ Tracked metrics:
 
 ---
 
-## 👨‍💻 My Role
+### 👨‍💻 My Role
 
-* Designed **end-to-end GenAI architecture**
-* Built **RAG pipeline with vector search**
-* Implemented **multi-turn conversational memory**
-* Integrated **real-time airline APIs**
-* Led **prompt engineering & optimization**
-* Ensured **production scalability and reliability**
+* Contributed to the design and implementation of a **Retrieval-Augmented Generation (RAG) pipeline** for airline customer support use cases
+* Worked on **data preprocessing and knowledge base preparation**, including structuring airline policies, FAQs, and metadata for efficient retrieval
+* Implemented **text chunking, embedding generation, and vector storage (FAISS/Pinecone)** for semantic search
+* Assisted in **prompt engineering and response tuning** to improve intent understanding and reduce hallucinations
+* Developed backend components using **Python (Flask/FastAPI)** to handle user queries and integrate AI responses
+* Integrated **external airline APIs** (flight search, booking, rescheduling) into the workflow with basic error handling
+* Implemented **session-based conversational memory** to support multi-turn interactions
+* Performed **evaluation and testing of model responses**, focusing on accuracy, latency, and edge cases
+* Collaborated with team members to debug issues, improve response quality, and optimize system performance
+
 
 ---
 
